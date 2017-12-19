@@ -25,9 +25,18 @@ UI:
   Task Actions:
   * View Details
   * Edit
-  * Complete
+  * Complete (hides task from the list)
   * Delete
 * Task View showing Task details (Name + description)
+
+API:
+* Task Controller
+  * Get Tasks (all incomplete)
+  * New Task
+  * Get Task Details
+  * Update Task Details
+  * Complete Task (set status to complete)
+  * Delete Task
 
 
 Solution Quality Requirments:
