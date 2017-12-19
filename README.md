@@ -16,7 +16,7 @@ Assumptions
 
 Data modeling
 * ToDoList object containing 0 or more tasks.
-* ToDoTask object containing task name, description and status.
+* ToDoTask object containing task id, name, description and status.
 
 UI:
 * List View containing To Do tasks (Name) and actions
